@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Nickainley-Normal;
+    src: url(../fonts/Nickainley-Normal.otf) format("otf");
+  }
+}
