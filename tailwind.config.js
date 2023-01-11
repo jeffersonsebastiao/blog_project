@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        nick: ["Nickainley-Normal"],
+        moon: ["Moon Dance"],
       },
     },
   },
